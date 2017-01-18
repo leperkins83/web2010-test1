@@ -10,3 +10,5 @@ function foo(num) {
 
 var bar = foo;
 console.log(foo(3));
+
+// correct

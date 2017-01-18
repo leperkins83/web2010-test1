@@ -16,3 +16,5 @@ function foo(string) {
 }
 
 foo('bird')();
+
+// correct
